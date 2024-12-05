@@ -1,4 +1,4 @@
-# Nestjs and TypeORM - MySQL
+# Nestjs and MySQL with TypeORM
 
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
