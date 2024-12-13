@@ -32,8 +32,8 @@ This project is a backend application developed with NestJS that interacts with 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/nestjs-mysql.git
-cd nestjs-mysql
+git clone https://github.com/IgnaLog/nestjs-typeorm-mysql.git
+cd nestjs-typeorm-mysql
 ```
 
 ### 2. Install Dependencies
